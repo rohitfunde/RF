@@ -678,20 +678,20 @@ footer span a:hover {
 }
 
 /* responsive media query start */
-@media (max-width: 1104px) {
+@media (max-width: 567px) {
   .about .about-content .left img {
     height: 350px;
     width: 350px;
   }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 567px) {
   .max-width {
     padding: 0 50px;
   }
 }
 
-@media (max-width: 947px) {
+@media (max-width: 567px) {
   .menu-btn {
     display: block;
     z-index: 999;
@@ -770,7 +770,7 @@ footer span a:hover {
   }
 }
 
-@media (max-width: 690px) {
+@media (max-width: 567px) {
   .max-width {
     padding: 0 23px;
   }
@@ -792,7 +792,7 @@ footer span a:hover {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 567px) {
   .home .home-content .text-2 {
     font-size: 50px;
   }
